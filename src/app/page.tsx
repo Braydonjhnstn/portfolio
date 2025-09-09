@@ -114,7 +114,7 @@ export default function Home() {
                 className="mt-8 text-gray-800 dark:text-gray-200"
               >
                 <p className="text-xl md:text-2xl tracking-wide leading-tight">
-                  I'M A{' '}
+                  I&apos;M A{' '}
                   <span className="text-gray-700 dark:text-gray-300">
                     SOFTWARE ENGINEER
                   </span>
@@ -194,9 +194,9 @@ export default function Home() {
                 <div className="relative w-full rounded-2xl overflow-hidden" style={{ aspectRatio: '3/4' }}>
                   <div className="absolute inset-0 bg-white/50 dark:bg-gray-900/50 backdrop-blur-sm p-8 shadow-lg">
                     <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
-                      Currently a sophomore at San Diego State University, I'm on track to graduate in 2026 with a passion for building innovative software solutions. What drives me is the thrill of turning creative ideas into reality through code.
+                      Currently a sophomore at San Diego State University, I&apos;m on track to graduate in 2026 with a passion for building innovative software solutions. What drives me is the thrill of turning creative ideas into reality through code.
                       <br /><br />
-                      When I'm not in class, you'll find me diving into new technologies and working on projects that challenge me to grow as a developer. I love collaborating with others and bringing fresh perspectives to the world of software engineering.
+                      When I&apos;m not in class, you&apos;ll find me diving into new technologies and working on projects that challenge me to grow as a developer. I love collaborating with others and bringing fresh perspectives to the world of software engineering.
                     </p>
                   </div>
                 </div>
