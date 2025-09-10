@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import NavigationWrapper from "./components/NavigationWrapper";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "Braydon Johnston | Portfolio",
@@ -25,6 +26,7 @@ export default function RootLayout({
         <main className="relative z-10">
           {children}
         </main>
+        <Analytics />
       </body>
     </html>
   );
